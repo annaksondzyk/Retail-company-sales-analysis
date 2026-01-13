@@ -11,10 +11,11 @@ The company has shown steady performance over the years. Management is intereste
 The analysis covers Bowman Goods’ sales data for 2023-2024. The aim is to uncover critical insights that could improve Bowman Goods’ commercial success.
 
 Insights and recommendations are provided across the key areas. The following business questions guided the analysis:
+
 Sales Trends:
 - How did revenue/profit grow in 2023-2024?
 - How did profit margin change in 2023-2024?
-- Are there any noticeable seasonal patterns? 
+- Are there any noticeable seasonal patterns?
 Product Level Performance:
 - Which categories generate the most revenue?
 - Which products or categories show the highest revenue/profit margin?
