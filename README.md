@@ -5,7 +5,9 @@ Power BI | SQL | Google sheets
 
 ### Project Background
 Bowman Goods is a retail company operating on the US market since 2000. The business utilises a bricks-and-mortar strategy with physical stores across 47 states and 108 cities. 
+
 The company has shown steady performance over the years. Management is interested in gaining a deeper understanding of Bowman Goods’ current performance and identifying opportunities for the company’s growth. 
+
 The analysis covers Bowman Goods’ sales data for 2023-2024. The aim is to uncover critical insights that could improve Bowman Goods’ commercial success.
 
 Insights and recommendations are provided across the key areas. The following business questions guided the analysis:
@@ -22,10 +24,14 @@ How concentrated are sales among key customers?
 Regional Comparisons:
 Which region contributes the most to total revenue?
 Which regions show the highest profitability?
+
 Metrics used in the analysis: Revenue, Profit, Profit margin, Average revenue per customer, Number of orders.
-Data Structure & Instruments Used
-Data Structure
+
+### Data Structure & Instruments Used
+#### Data Structure
+
 For the analysis we used a clean .csv flat file with sales data for Bowman Goods for 2023-2024.
+
 The  Bowman Goods’ sales database structure after normalisation and additional calculations as seen below consists of six tables:
 FactSales – transactional sales data (200,000 rows)
 DimDate – calendar table (used for time-based analysis)
@@ -36,24 +42,27 @@ Customers_City_count_aggr_2024 - additional calculation for distribution of cust
 
 
 
-Instruments Used
+#### Instruments Used
 Power BI – calculations and visualisations
 SQL (SQL Server Management Studio) – data inspection and normalisation, complex calculation, which required aggregation
 Google Sheets – supplementary calculations and percentage checks
-Links
+
+#### Links
 Power BI dashboard (download required) [link]
 Power BI supporting visualizations (download required) [link]
 SQL queries [link]
 Google Sheets file [link]
-Executive Summary
+
+### Executive Summary
 Bowman Goods sales analysis shows 1.27% growth in revenue and profit margin in 2024. Sales records show strong seasonality peaking in October - December and the lowest revenue in February. The biggest category in sales, Electronics, shows the lowest margin of 15.1% in 2024 (average is 22.16%). No changes in the assortment took place between 2023 and 2024. Top 10 products accounted for 42.8% revenue in 2024. The client base has remained stable in 2023-2024. The highest-performing region by sales, East, showed the lowest margin of 20.55% (average is 22.16%).
+
 Bowman Goods can benefit from increasing and smoothing monthly revenue by expanding a product range, introducing non-seasonal products and focused marketing activities. Cross-selling of high profit margin products (Accessories) could help increase profit margin. Online presence of Bowman Goods might be considered.
 
-Insights Deep Dive
-Sales Trends
-In 2024, both revenue and profit increased by 1.27% compared to 2023 (revenue: 71.7 mUSD vs 70.8 mUSD; profit: 15.9 mUSD vs 15.7 mUSD) with 100.1k orders (2023: 99.8k orders).  
-The profit margin remained stable at 22.1% (2024: 22.16%, 2023: 22.15%). 
-Monthly sales in 2023-2024 showed seasonality: highest sales in October-December with a peak in November (2024: 13.9 mUSD, 2023: 13.3 mUSD) with further drop reaching the lowest sales in February (2024: 2.9 mUSD, 2023: 2.7 mUSD). For the rest of the year sales are rather stable with a small increase in March and May.
+### Insights Deep Dive
+#### Sales Trends
+- In 2024, both revenue and profit increased by 1.27% compared to 2023 (revenue: 71.7 mUSD vs 70.8 mUSD; profit: 15.9 mUSD vs 15.7 mUSD) with 100.1k orders (2023: 99.8k orders).  
+- The profit margin remained stable at 22.1% (2024: 22.16%, 2023: 22.15%). 
+- Monthly sales in 2023-2024 showed seasonality: highest sales in October-December with a peak in November (2024: 13.9 mUSD, 2023: 13.3 mUSD) with further drop reaching the lowest sales in February (2024: 2.9 mUSD, 2023: 2.7 mUSD). For the rest of the year sales are rather stable with a small increase in March and May.
 
 Product Level Performance
 Categories which show the highest sales levels, Electronics, Home & Furniture, show lower profit margins (15–24%). The category with the lowest revenue, Accessories, shows the highest margins (around 34%). 
