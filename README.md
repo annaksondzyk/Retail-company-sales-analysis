@@ -12,18 +12,18 @@ The analysis covers Bowman Goods’ sales data for 2023-2024. The aim is to unco
 
 Insights and recommendations are provided across the key areas. The following business questions guided the analysis:
 Sales Trends:
-How did revenue/profit grow in 2023-2024?
-How did profit margin change in 2023-2024?
-Are there any noticeable seasonal patterns? 
+- How did revenue/profit grow in 2023-2024?
+- How did profit margin change in 2023-2024?
+- Are there any noticeable seasonal patterns? 
 Product Level Performance:
-Which categories generate the most revenue?
-Which products or categories show the highest revenue/profit margin?
-What is the revenue contribution from the top products?
+- Which categories generate the most revenue?
+- Which products or categories show the highest revenue/profit margin?
+- What is the revenue contribution from the top products?
 Customer Segments:
-How concentrated are sales among key customers?
+- How concentrated are sales among key customers?
 Regional Comparisons:
-Which region contributes the most to total revenue?
-Which regions show the highest profitability?
+- Which region contributes the most to total revenue?
+- Which regions show the highest profitability?
 
 Metrics used in the analysis: Revenue, Profit, Profit margin, Average revenue per customer, Number of orders.
 
