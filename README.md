@@ -41,6 +41,7 @@ The  Bowman Goods’ sales database structure after normalisation and additional
 - _Measures – calculated measures
 - Customers_City_count_aggr_2024 - additional calculation for distribution of customers by the number of cities where they made purchases
 <img width="753" height="393" alt="image" src="https://github.com/user-attachments/assets/b11cecd8-366f-42f9-b687-5a8484e7c70f" />
+<img width="917" height="491" alt="image" src="https://github.com/user-attachments/assets/ccca3909-5a15-4c48-9699-9e34a7f41b6c" />
 
 
 
