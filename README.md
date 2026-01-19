@@ -88,15 +88,19 @@ Bowman Goods can benefit from increasing and smoothing monthly revenue by expand
 - Average revenue per customer increased by approximately 1% (2024: 1,006 USD, 2023: 997 USD).
 - Concentration of sales in top 10 customers is below 0.4% in both years (2024: 0.37%, 2023: 0.36%).
 - 20.8% of clients visited shops located in more than 1 city in 2024.
+<img width="477" height="307" alt="image" src="https://github.com/user-attachments/assets/7e385754-0f76-4b2a-a615-43fb86818a1a" />
 
 #### Regional Comparisons
 - Bowman Goods sells goods in physical shops across the US, being represented in 47 states and 108 cities during 2023-2024.
+<img width="757" height="492" alt="image" src="https://github.com/user-attachments/assets/7e007aaa-e0f6-4550-bac4-882348316eec" />
 
 - In 2024, the highest performing region for Bowman Goods is East, being first at customer count, share of revenue and profit, but with the lowest profit margin below Bowman Goods’ average at 20.55%. This is due to 54.9% of the region's sales coming from Electronics, the category with the lowest profit margin. 
 Other regions show lower concentration on Electronics and more balanced sales structure, which also results in higher profit margins.
 In 2024, the lowest performing region is South based on customer count, share of revenue and profit, however showing the highest profit margin among regions of 23.56%. 
+<img width="768" height="491" alt="image" src="https://github.com/user-attachments/assets/997880ec-d4c3-40ad-8bf2-ab1349d0cd48" />
 
 - The lowest level of data on location in the dataset is city. Information on separate shops is not included. Such information would provide for a more nuanced analysis.
+
 ### Recommendations
 #### Sales Trends
 - Increase sales in low-season months: Focus marketing activities, potentially on:
