@@ -5,11 +5,8 @@ Power BI | SQL | Google sheets
 
 ### Project Background
 Bowman Goods is a retail company operating on the US market since 2000. The business utilises a bricks-and-mortar strategy with physical stores across 47 states and 108 cities. 
-
 The company has shown steady performance over the years. Management is interested in gaining a deeper understanding of Bowman Goods’ current performance and identifying opportunities for the company’s growth. 
-
 The analysis covers Bowman Goods’ sales data for 2023-2024. The aim is to uncover critical insights that could improve Bowman Goods’ commercial success.
-
 Insights and recommendations are provided across the key areas. The following business questions guided the analysis:
 
 Sales Trends:
