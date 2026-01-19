@@ -40,6 +40,7 @@ The  Bowman Goods’ sales database structure after normalisation and additional
 - DimRegion – mapping of cities to regions and states
 - _Measures – calculated measures
 - Customers_City_count_aggr_2024 - additional calculation for distribution of customers by the number of cities where they made purchases
+<img width="753" height="393" alt="image" src="https://github.com/user-attachments/assets/b11cecd8-366f-42f9-b687-5a8484e7c70f" />
 
 
 
