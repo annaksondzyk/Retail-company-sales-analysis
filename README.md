@@ -68,14 +68,18 @@ Bowman Goods can benefit from increasing and smoothing monthly revenue by expand
 #### Product Level Performance
 - Categories which show the highest sales levels, Electronics, Home & Furniture, show lower profit margins (15–24%). The category with the lowest revenue, Accessories, shows the highest margins (around 34%). 
 - Accessories is also the only category that showed a slight decline in 2024 (-0.19 mUSD revenue, -0.07% profit margin).
+<img width="836" height="260" alt="image" src="https://github.com/user-attachments/assets/bf652822-9d88-46d9-a917-e12c128c06f5" />
 
 - No changes in the assortment between 2023 and 2024. The company sold 49 products in 4 categories. The category with the highest margin, Accessories, has the lowest assortment, 9 items. The category with the lowest margin, Electronics, has the largest - 16 items.
+<img width="445" height="244" alt="image" src="https://github.com/user-attachments/assets/227d4246-3017-4893-a077-0ac7e5f0857d" />
 
 - Top 10 products by revenue represent 20% of all SKUs and generated 42.8% revenue and 34.5% profit in 2024. They were composed of Electronics and Home & Furniture categories. 
 - Top 10 products by profit included 3 additional Clothing & Apparel products replacing 3 Electronics products. Top 10 products by profit accounted for 37.5% profit in 2024. 
+<img width="1012" height="273" alt="image" src="https://github.com/user-attachments/assets/a62b6cf0-38f5-44d6-a58e-8043f576390d" />
 
 - Lists of top 10 products defined by both revenue and profit remained stable in 2023-2024.
 - Top products sold by the company by both revenue and profit are Tempor-Pedic Mattress (Home & Furniture) and Instant Pot (Electronics). 
+<img width="709" height="526" alt="image" src="https://github.com/user-attachments/assets/2d523636-04f3-45fd-a638-16e8f5f1b766" />
 
 #### Customer Segments
 - Customer analysis should be interpreted with caution, as identification is based on names rather than unique IDs. 
