@@ -31,7 +31,7 @@ Metrics used in the analysis: Revenue, Profit, Profit margin, Average revenue pe
 ### Data Structure & Instruments Used
 #### Data Structure
 
-For the analysis we used a clean .csv flat file with sales data for Bowman Goods for 2023-2024.
+For the analysis we used a clean [.csv flat file](https://github.com/annaksondzyk/Retail-company-sales-analysis/blob/main/product_sales_dataset_final.rar) with sales data for Bowman Goods for 2023-2024.
 
 The  Bowman Goods’ sales database structure after normalisation and additional calculations as seen below consists of six tables:
 - FactSales – transactional sales data (200,000 rows)
@@ -48,9 +48,9 @@ The  Bowman Goods’ sales database structure after normalisation and additional
 - Google Sheets – supplementary calculations and percentage checks
 
 #### Links
-- Power BI dashboard (download required) [link]
-- Power BI supporting visualizations (download required) [link]
-- [SQL requests]()
+- [Power BI dashboard](https://github.com/annaksondzyk/Retail-company-sales-analysis/blob/main/Bowman%20Goods%20-%20Sales_dashboard.pbix) (download required)
+- [Power BI supporting visualizations](https://github.com/annaksondzyk/Retail-company-sales-analysis/blob/main/Bowman%20Goods%20-%20Supporting_visualizations.pbix) (download required)
+- [SQL requests](https://github.com/annaksondzyk/Retail-company-sales-analysis/blob/main/Bowman%20Goods%20-%20SQL%20requests.pdf)
 - [Google Sheets supporting calculations](https://docs.google.com/spreadsheets/d/1SxVfv9tNbjUxuZI06ypBCQvXcpeyt7UxB2F5FEO-UpI/edit?gid=0#gid=0)
 
 ### Executive Summary
