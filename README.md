@@ -44,14 +44,14 @@ The  Bowman Goods’ sales database structure after normalisation and additional
 
 #### Instruments Used
 - Power BI – calculations and visualisations
-- SQL (SQL Server Management Studio) – data inspection and normalisation, complex calculation, which required aggregation
+- SQL (SQL Server Management Studio) – data normalisation, complex calculation, which required aggregation
 - Google Sheets – supplementary calculations and percentage checks
 
 #### Links
 - Power BI dashboard (download required) [link]
 - Power BI supporting visualizations (download required) [link]
 - SQL queries [link]
-- Google Sheets file [link]
+- [Google Sheets file](https://docs.google.com/spreadsheets/d/1SxVfv9tNbjUxuZI06ypBCQvXcpeyt7UxB2F5FEO-UpI/edit?gid=0#gid=0)
 
 ### Executive Summary
 Bowman Goods sales analysis shows 1.27% growth in revenue and profit margin in 2024. Sales records show strong seasonality peaking in October - December and the lowest revenue in February. The biggest category in sales, Electronics, shows the lowest margin of 15.1% in 2024 (average is 22.16%). No changes in the assortment took place between 2023 and 2024. Top 10 products accounted for 42.8% revenue in 2024. The client base has remained stable in 2023-2024. The highest-performing region by sales, East, showed the lowest margin of 20.55% (average is 22.16%).
