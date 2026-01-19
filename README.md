@@ -40,10 +40,7 @@ The  Bowman Goods’ sales database structure after normalisation and additional
 - DimRegion – mapping of cities to regions and states
 - _Measures – calculated measures
 - Customers_City_count_aggr_2024 - additional calculation for distribution of customers by the number of cities where they made purchases
-<img width="753" height="393" alt="image" src="https://github.com/user-attachments/assets/b11cecd8-366f-42f9-b687-5a8484e7c70f" />
 <img width="917" height="491" alt="image" src="https://github.com/user-attachments/assets/ccca3909-5a15-4c48-9699-9e34a7f41b6c" />
-
-
 
 #### Instruments Used
 - Power BI – calculations and visualisations
@@ -66,6 +63,7 @@ Bowman Goods can benefit from increasing and smoothing monthly revenue by expand
 - In 2024, both revenue and profit increased by 1.27% compared to 2023 (revenue: 71.7 mUSD vs 70.8 mUSD; profit: 15.9 mUSD vs 15.7 mUSD) with 100.1k orders (2023: 99.8k orders).  
 - The profit margin remained stable at 22.1% (2024: 22.16%, 2023: 22.15%). 
 - Monthly sales in 2023-2024 showed seasonality: highest sales in October-December with a peak in November (2024: 13.9 mUSD, 2023: 13.3 mUSD) with further drop reaching the lowest sales in February (2024: 2.9 mUSD, 2023: 2.7 mUSD). For the rest of the year sales are rather stable with a small increase in March and May.
+<img width="580" height="351" alt="image" src="https://github.com/user-attachments/assets/f5a052d5-d658-41fe-931f-8581cacc9e28" />
 
 #### Product Level Performance
 - Categories which show the highest sales levels, Electronics, Home & Furniture, show lower profit margins (15–24%). The category with the lowest revenue, Accessories, shows the highest margins (around 34%). 
