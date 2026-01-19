@@ -126,6 +126,10 @@ East as the region with the lowest profit margin (specifically, Accessories)
 - Is data on Shop ID, Shop Location stored?
 - Is there a loyalty program at Bowman Goods?
 
+### Annex 1. Sales Dashboard
+<img width="1326" height="744" alt="image" src="https://github.com/user-attachments/assets/0bb2b701-e861-4208-9799-317e91c51386" />
+
+
 
 #### Assumptions and Caveats
 We assumed that a unique combination of name and surname of a customer represents a unique client, since the dataset did not include a unique customer ID. Customer analysis should be interpreted with caution.
